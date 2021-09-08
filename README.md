@@ -19,3 +19,11 @@ tajmahal is located in agra which is constructed by **mughals**.it takes 20years
    1. commplete the check out process in Delhi
    2. Book a bus ticket to agra 
 4. book a cab Agra  to tajmahal
+
+* clothes
+* books
+* camera
+* food
+  * rice
+  *powders
+  
