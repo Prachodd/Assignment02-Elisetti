@@ -61,5 +61,6 @@ int fact_pow (int n, int k) {
     }
     return res;
 }
-----
+
+```
 Source link for code-<https://cp-algorithms.com/algebra/factorial-divisors.html>
