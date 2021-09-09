@@ -28,3 +28,18 @@ tajmahal is located in agra which is constructed by **mughals**.it takes 20years
   *powders
 
   [Aboutme](Aboutme.md)
+
+  # Table Creation
+  The above table recommends some of my best food and drinks I exprienced till now
+
+  |      Food/drink        |     Location          |   Price   |
+  |      ----------        |    -----------        |  -------- |
+  |    Chicken pizza       |     Dominos           |  $9       |
+  |    veg burger          |     pizza hut         |  $4       |
+  |    veg sandwich        |     Tacobell          |  $12      |
+  |    chicken bbq         |     Nation            |  $13      |
+
+
+  # Quotes by greatest people
+  > "The greatest glory in living lies not in never falling, but in rising every time we fall". ***Nelson Mandela***
+  > "If life were predictable it would cease to be life, and be without flavor". ***Eleanor Roosevelt***
