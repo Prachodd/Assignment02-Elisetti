@@ -27,4 +27,4 @@ tajmahal is located in agra which is constructed by **mughals**.it takes 20years
   * rice
   *powders
 
-  [image](https://github.com/Prachodd/assignment02-elisetti/blob/main/Aboutme.md)
+  [AboutMe](AboutMe.md)
